@@ -26,4 +26,6 @@ The purpose of the cleanData function is to handle all missing inputs and create
   
 Best results where got using an ensamble learner which selects the most popular output with Random Forest, SVM, Logistic Regression, and self-written Boosted Decision Tree algorithms. 
 
+Output submitted to Kaggle Titanic Dataset competition. 
+
 
